@@ -3,7 +3,7 @@
 Deep deterministic policy gradient using Keras and Tensorflow with python to solve the Continous mountain car problem provided
 by OpenAI gym.
 
-Input to the model is the state of the car (position and velocity) while the output is a single real-valued number indicating
+Input to the model is the position and velocity information of the car while the output is a single real-valued number indicating
 the deterministic action to take given a state.
 
 This work uses many tuorials that I found online and much of my code is similar to the already existing tutorials available online
